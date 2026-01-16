@@ -186,5 +186,6 @@ All protected routes require JWT in `Authorization: Bearer <token>` header.
 
 ---
 
-## License
-MIT
+## Author
+Gopal Mehtre.
+-(This project is an assesment for Roxiler Systems).
